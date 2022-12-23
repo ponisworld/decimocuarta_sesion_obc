@@ -1,0 +1,20 @@
+{
+  "name": "decimocuarta_sesion_obc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ponisworld/decimocuarta_sesion_obc.git"
+  },
+  "keywords": [],
+  "author": "Andrea Bellver García",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ponisworld/decimocuarta_sesion_obc/issues"
+  },
+  "homepage": "https://github.com/ponisworld/decimocuarta_sesion_obc#readme"
+}
