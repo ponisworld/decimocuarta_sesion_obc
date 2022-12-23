@@ -1,7 +1,7 @@
 {
   "name": "decimocuarta_sesion_obc",
   "version": "1.0.0",
-  "description": "",
+  "description": "Decimocuarta sesión de JS con OBC",
   "main": "index.js",
   "scripts": {
     "start": "http-server ."
